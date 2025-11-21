@@ -1,0 +1,51 @@
+body{
+  background-image: url("texture3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 15px;
+}
+
+.hero-image {
+  background-image: url("texture3.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow:black 0px 0px 15px 5px;
+}
+
+.hero-text {
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container{
+  text-align: center;
+  border-radius: 15px;
+  padding: 15px;
+  color: white;
+}
+
+.row{
+  row-gap: 10px;
+  padding: 20px;
+}
+
+footer{
+  text-align: center;
+  padding: 100px;
+  color: black;
+}
+
+.bg-dark{
+  background-color: black;
+  border-radius: 15px;
+  margin: auto 0;
+  box-shadow: black 0px 0px 15px 5px;
+}
